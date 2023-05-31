@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(46, 45, 45);
+}
+h1{
+    color: antiquewhite;
+    text-align: center;
+    
+}
+h2{
+    color: antiquewhite;
+    text-align: center;
+}
+h3{
+    color: antiquewhite;
+    text-align: center;
+}
+p{
+    color: antiquewhite;
+    font-size: x-large;
+}
+hr{
+    border-style: none;
+    border-top-style: dashed ;
+    border-color: black;
+    
+}
+p{
+    color: aliceblue;
+}
+ul{
+    color: aliceblue;
+    font-size: x-large;
+}
+tr{
+    color: aliceblue;
+    font-size: x-large;
+}
+a{
+    color: aliceblue;
+}
+img{
+    padding-left: ;
+    padding-top: ;
+    border-width: ;
+    border-color: ;
+}
+div{
+    width: 300px;
+    border: 15px,20px solid rgb(11, 12, 11);
+    padding: 50px;
+    margin: 20px;
+}
