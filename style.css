@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(46, 45, 45);
+    background-color: rgb(200, 113, 113);
 }
 h1{
     color: antiquewhite;
@@ -50,3 +50,25 @@ div{
     padding: 50px;
     margin: 20px;
 }
+button{
+    width: 100px;
+    height:40px;
+    background-color: aqua;
+    color: black;
+    font-style: oblique;
+}
+img{
+    width: 200px;
+    height: 300px;
+}
+label{
+   color: antiquewhite;
+}
+.head1{
+    color: antiquewhite;
+}
+.head2{
+    color: antiquewhite;
+}
+.head3{
+    color: antiquewhite;
